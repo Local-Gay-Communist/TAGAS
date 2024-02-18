@@ -4,3 +4,5 @@ current goals:
  - create *player* **struct**
  - create *room* **struct**
  - create *room* **descriptions**
+
+am sick atm so it could take a while (although it always takes a while because autism + depression)
